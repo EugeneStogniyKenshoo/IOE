@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+<channel>
+<title>Test Store</title>
+<link>http://www.example.com</link>
+<description>An example item from the feed</description>
+<item>
+<g:id>DB_1</g:id>
+<g:title>Dog Bowl In Blue</g:title>
+<g:description>Solid plastic Dog Bowl in marine blue color</g:description>
+<g:link>https://translate.google.com.ua/?hl=ru&tab=wT#en/ru/Dog%20Bowl</g:link>
+<g:image_link>http://www.profi-forex.org/system/user_files/Images/wiki2/resized/13_kartinki_masha_i_medved_1817064431.jpg</g:image_link>
+<g:brand>Example</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>11.99 GBP</g:price>
+<g:shipping>
+	<g:country>UK</g:country>
+	<g:service>Standard</g:service>
+	<g:price>10.95 GBP</g:price>
+</g:shipping>
+<g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+<g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+</item>
+
+<item>
+<g:id>DB_2</g:id>
+<g:title>Dog Bowl In Red</g:title>
+<g:description>Solid plastic Dog Bowl in marine red color</g:description>
+<g:link>https://translate.google.com.ua/?hl=ru&tab=wT#en/ru/Dog%20Bowl</g:link>
+<g:image_link>http://www.profi-forex.org/system/user_files/Images/wiki2/resized/6_kartinki_masha_i_medved_1060849683.jpg</g:image_link>
+<g:brand>Example</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>20.99 GBP</g:price>
+<g:shipping>
+	<g:country>UK</g:country>
+	<g:service>Standard</g:service>
+	<g:price>5.00 GBP</g:price>
+</g:shipping>
+<g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+<g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+</item>
+
+<item>
+<g:id>DB_3</g:id>
+<g:title>Dog Bowl In Green</g:title>
+<g:description>Solid plastic Dog Bowl in marine green color</g:description>
+<g:link>https://translate.google.com.ua/?hl=ru&tab=wT#en/ru/Dog%20Bowl</g:link>
+<g:image_link>http://www.profi-forex.org/system/user_files/Images/wiki2/resized/13_kartinki_masha_i_medved_1817064431.jpg</g:image_link>
+<g:brand>Example</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>29.99 GBP</g:price>
+<g:shipping>
+	<g:country>UK</g:country>
+	<g:service>Standard</g:service>
+	<g:price>40.95 GBP</g:price>
+</g:shipping>
+<g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+<g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+</item>
+
+<item>
+<g:id>DB_4</g:id>
+<g:title>Dog Bowl In Yellow</g:title>
+<g:description>Solid plastic Dog Bowl in marine Yellow color</g:description>
+<g:link>https://translate.google.com.ua/?hl=ru&tab=wT#en/ru/Dog%20Bowl</g:link>
+<g:image_link>http://www.profi-forex.org/system/user_files/Images/wiki2/resized/6_kartinki_masha_i_medved_1060849683.jpg</g:image_link>
+<g:brand>Example</g:brand>
+<g:condition>new</g:condition>
+<g:availability>in stock</g:availability>
+<g:price>14.99 GBP</g:price>
+<g:shipping>
+	<g:country>UK</g:country>
+	<g:service>Standard</g:service>
+	<g:price>12.95 GBP</g:price>
+</g:shipping>
+<g:google_product_category>Animals &gt; Pet Supplies</g:google_product_category>
+<g:custom_label_0>Made in Waterford, IE</g:custom_label_0>
+</item>
+
+
+</channel>
+</rss>
